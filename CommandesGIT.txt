@@ -1,0 +1,9 @@
+gitk ou gitk --all : voir l'historique
+git add . : confirmer que la mémoire temporaire est ce que l'on veut commit (delete pour corriger)
+git commit -m "commentaire" : faire un commit
+git branch "nombranch" : créer une nouvelle branche
+git checkout "nombranch" : basculer vers une branche. 
+git push origin "nombranch" : envoie la branche sur le repository Github option
+option -u pour ce souvenir que c'est origin (nom de base du repository) et la branche actuelle
+
+
